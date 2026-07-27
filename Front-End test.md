@@ -4,11 +4,20 @@
 4. Language is changing successfully by clicking Globe icon
 5. **At  notifications search button is not working at preview page**
 
+<<<<<<< HEAD
 Pasted image 20260724152414.png
 
 6. **At notifications pop-up sorting pop up position changes when user selects the sorting options**
 
 Pasted image 20260724152455.png
+=======
+![Preview Page](Pasted%20image%2020260724152414.png)
+
+
+6. **At notifications pop-up sorting pop up position changes when user selects the sorting options**
+
+![Preview Page](Pasted%20image%2020260724152455.png)
+>>>>>>> 97ceda8 (27th July 2026)
 
 7. **Notifications are displayed even when no sorting option is selected.**
 
@@ -16,7 +25,11 @@ Pasted image 20260724152522.png
 
 8. **On clicking on "Show all notification" button opens notification page which is not responsive and working (Static) and some minor visual bugs**
  
+<<<<<<< HEAD
 Pasted image 20260724152336.png
+=======
+![Preview Page](Pasted%20image%2020260724152336.png)
+>>>>>>> 97ceda8 (27th July 2026)
 
 8. The notifications have been successfully marked as read and deleted. 
 9. on user profile user's paddle number, username, email and Manage accounts button is clearly visible and working 
@@ -26,7 +39,11 @@ Pasted image 20260724152336.png
 13. Product count is working good
 14. **At preview page "My page" button is not functioning**
 
+<<<<<<< HEAD
 Pasted image 20260724154743.png
+=======
+![Preview Page](Pasted%20image%2020260724154743.png)
+>>>>>>> 97ceda8 (27th July 2026)
 
 15. NR functionality is working without any issue and black border is also appear when enabled
 16. Excel file with product details is downloading by clicking on download/export button 
@@ -34,7 +51,11 @@ Pasted image 20260724154743.png
 18. List view and grip view is working as expected
 19. **There is Rap off alignment issue **
 
+<<<<<<< HEAD
 Pasted image 20260724174713.png
+=======
+![Preview Page](Pasted%20image%2020260724174713.png)
+>>>>>>> 97ceda8 (27th July 2026)
 
 20. **Rap off sorting does not adhere to the correct ascending or descending order, which is already a problem.**
 21. Batch products count is visible on preview page
@@ -42,4 +63,51 @@ Pasted image 20260724174713.png
 23. Non Reserve ribbons are visible on NR products
 24. 0's increment is also clearly mentioned on preview page
 25. Starting price is visible in USD and JPY (whose proffered currency is in JPY)
-26. 
+26. S No and certificates are also mentioned 
+27. On clicking on certificate it is opening in new window of a browser
+28. Remarks is present in products either in the text form or in link form
+29. Zoom functionality is working on product detail page on those product who has images
+30. Starting price and Amount **(Starting price * Carat)** is clearly visible with dollar and yen prices(Those who has selected preferred currency yen)
+31. on setting a pre-bid we can see the bid amount in blue box
+32. On product detail page we can share the product with other users by tapping on share button (Branch.io service) is also working 
+33. Auction name is clearly returned at product detail page
+34. All Product details are correct and clearly mentioned on product detail page
+35. The big question mark (Inquiry) button is working and clearly visible and file count is working as expected.
+36. Notes is also working as expected and the text is also visible during live auction.
+37. Navigation button which helps to navigate to next product present at auction detail page is working
+38. For Bulk products there are another navigation arrows which is perfectly working navigating to child products
+39. ** After clicking at same page again the infinite loading loop triggers  
+
+![Preview Page](1.PNG)
+
+40. After clicking on another page is successfully navigates user to the next page
+41. Previous and Next also navigates user to next page or previous page based on the current page
+42. At Parcel product user can see the table like format which specifies how many pieces and ct product has
+43. On right clicking opens the pop-up of Details, by clicking it user can navigate to product detail page of a particular product (On present in Grid view)
+44. A GIF present at short break is working and the time is also present 
+45. ** If we place the pre-bid and watchlist on more than 4 products than we able to see an arrow
+
+![Preview Page](2.PNG)
+
+which helps user to see all the products, the arrows are not fully visible **
+46. ** After the product gone than also the product S.no in visible **
+
+![Preview Page](2.PNG)
+
+47. ** Bid Paddle number users see there paddle number not fit properly
+
+48. ** After the the end of the product Thank you box is shrink in size **
+
+![Preview Page](5.PNG)
+
+49. ** This is an generic issue that the font and alignment is disturbed at many places **
+50. ** After clicking at Register -> Login button the all the sign-in/sign-up operation comes at right side **
+51. ** At auction detail page yen prices can be seen when entering the pre-bid but $ price is missing (It should be like setting pre-bid at preview page)
+
+![Preview Page](3.PNG)
+
+52. **The short break "Auction will resume after the product number", the product number is not present in the message **
+
+![Preview Page](4.PNG)
+
+53. 
