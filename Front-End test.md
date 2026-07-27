@@ -89,4 +89,4 @@
 
 ![Preview Page](4.PNG)
 
-54. **After the auction ends than user automatically navigated to Auctions page (User should be present at Preview page only with past auctions list). **
+54. **After the auction ends than user automatically navigated to Auctions page (User should be present at Preview page only with past auctions list).**
