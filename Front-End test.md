@@ -33,7 +33,7 @@
 16. Excel file with product details is downloading by clicking on download/export button 
 17. Bulk bid functionality (Watchlist, Pre-bid, reset and cancel bid) are working
 18. List view and grip view is working as expected
-19. **There is Rap off alignment issue **
+19. **There is Rap off alignment issue**
 
 ![Preview Page](Pasted%20image%2020260724174713.png)
 
@@ -56,7 +56,7 @@
 36. Notes is also working as expected and the text is also visible during live auction.
 37. Navigation button which helps to navigate to next product present at auction detail page is working
 38. For Bulk products there are another navigation arrows which is perfectly working navigating to child products
-39. ** After clicking at same page again the infinite loading loop triggers  
+39. **After clicking at same page again the infinite loading loop triggers**  
 
 ![Preview Page](1.PNG)
 
@@ -65,29 +65,28 @@
 42. At Parcel product user can see the table like format which specifies how many pieces and ct product has
 43. On right clicking opens the pop-up of Details, by clicking it user can navigate to product detail page of a particular product (On present in Grid view)
 44. A GIF present at short break is working and the time is also present 
-45. ** If we place the pre-bid and watchlist on more than 4 products than we able to see an arrow
+45. **If we place the pre-bid and watchlist on more than 4 products than we able to see an arrow which helps user to see all the products, the arrows are not fully visible**
 
 ![Preview Page](2.PNG)
 
-which helps user to see all the products, the arrows are not fully visible **
-46. ** After the product gone than also the product S.no in visible **
+46. **After the product gone than also the product S.no in visible**
 
 ![Preview Page](2.PNG)
 
-47. ** Bid Paddle number users see there paddle number not fit properly
+47. **Bid Paddle number users see there paddle number not fit properly**
 
-48. ** After the the end of the product Thank you box is shrink in size **
+48. **After the the end of the product Thank you box is shrink in size**
 
 ![Preview Page](5.PNG)
 
-49. ** This is an generic issue that the font and alignment is disturbed at many places **
-50. ** After clicking at Register -> Login button the all the sign-in/sign-up operation comes at right side **
-51. ** At auction detail page yen prices can be seen when entering the pre-bid but $ price is missing (It should be like setting pre-bid at preview page)
+49. **This is an generic issue that the font and alignment is disturbed at many places**
+50. **After clicking at Register -> Login button the all the sign-in/sign-up operation comes at right side**
+51. **At auction detail page yen prices can be seen when entering the pre-bid but $ price is missing (It should be like setting pre-bid at preview page)
 
 ![Preview Page](3.PNG)
 
-52. **The short break "Auction will resume after the product number", the product number is not present in the message **
+52. **The short break "Auction will resume after the product number", the product number is not present in the message**
 
 ![Preview Page](4.PNG)
 
-53. 
+53. **After the auction ends than user automatically navigated to Auctions page (User should be present at Preview page only with past auctions list). **
