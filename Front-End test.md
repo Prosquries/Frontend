@@ -146,4 +146,6 @@
 
 ![Preview Page](13.PNG)
 
-28. 
+28. **After auction ends in IOS device it logouts automatically** 
+29. **Arrows at the time of live auction was not fully visible** 
+30. **The paddle number is not fitted in the paddle box** . 
